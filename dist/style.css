@@ -50,11 +50,11 @@
   opacity: 1;
 }
 .card1 {
-  background: url("https://i.pinimg.com/originals/28/d2/e6/28d2e684e7859a0dd17fbd0cea00f8a9.jpg") center center no-repeat;
+  background: url("timao2.png") center center no-repeat;
   background-size: 300px;
 }
 .card1:hover {
-  background: url("https://i.pinimg.com/originals/28/d2/e6/28d2e684e7859a0dd17fbd0cea00f8a9.jpg") left center no-repeat;
+  background: url("timao2.png") left center no-repeat;
   background-size: 600px;
 }
 .card1:hover h2 {
